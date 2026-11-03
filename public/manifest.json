@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Little Café Pomodoro v2",
+  "short_name": "LittleCafé",
+  "description": "Aplikasi produktivitas Pomodoro pixel café dengan musik ambience, to-do list, study tracker, koin reward, dekorasi, menu minuman, dan jurnal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#18110D",
+  "theme_color": "#201611",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

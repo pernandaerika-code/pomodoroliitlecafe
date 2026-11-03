@@ -1,0 +1,6 @@
+{
+  "name": "Little Café Pomodoro v2",
+  "description": "Aplikasi produktivitas Pomodoro bertema pixel café dengan musik ambience, to-do list, study tracker, koin reward, dekorasi kafe interaktif, racikan menu minuman kustom, jurnal harian, dan statistik belajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
